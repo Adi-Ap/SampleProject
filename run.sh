@@ -1,2 +1,2 @@
-echo 'Hello Aditya'
+echo 'Hello Adi'
 
